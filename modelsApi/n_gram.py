@@ -1,6 +1,5 @@
 import pickle
 from collections import defaultdict, Counter
-import math
 
 class BigramLanguageModel:
     def __init__(self):
